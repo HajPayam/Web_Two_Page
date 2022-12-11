@@ -1,0 +1,45 @@
+body {
+    background-color: gainsboro;
+}
+
+
+.table {
+    width: 50%;
+    height: 50%;
+    direction: ltr;
+    text-align: center;
+    padding: 2%;
+}
+
+.table_1 {
+    width: 50%;
+    height: 20%;
+    direction: ltr;
+    text-align: center;
+    padding: 2%;
+}
+
+.aa {
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    font-size: 26px;
+}
+
+.bb {
+    background-color: rgb(254, 254, 254);
+    font-size: 26px;
+    border-bottom: 4px solid darkgreen;
+}
+
+.cc {
+    background-color: rgb(245, 245, 245);
+    color: rgb(0, 162, 41);
+    font-size: 26px;
+}
+
+.zz {
+    background-color: rgb(254, 254, 254);
+    font-size: 26px;
+    border-bottom: 4px solid darkgreen;
+}
